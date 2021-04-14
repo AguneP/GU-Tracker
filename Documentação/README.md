@@ -1,9 +1,3 @@
 # Pasta da Documentação do Projeto
 
-## Canvas do Projeto
-
-## Proposta do Projeto
-
-## Requisitos do Projeto
-
-## Estimativa dos Requisitos do Projeto (LOC)
+Aqui está toda a documentação do projeto. Incluinto planejamento, especificações, estimativas de custo e tempo.
