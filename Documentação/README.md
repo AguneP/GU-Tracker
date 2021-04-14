@@ -1,9 +1,9 @@
 # Pasta da Documentação do Projeto
 
-##Canvas do Projeto
+## Canvas do Projeto
 
-##Proposta do Projeto
+## Proposta do Projeto
 
-##Requisitos do Projeto
+## Requisitos do Projeto
 
-##Estimativa dos Requisitos do Projeto (LOC)
+## Estimativa dos Requisitos do Projeto (LOC)
